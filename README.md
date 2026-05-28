@@ -112,8 +112,8 @@ Feel free to fork this repository and submit pull requests.
 
 ## 📧 Contact
 
-**Your Name**
-GitHub: https://github.com/your-username
+**Prachi Shikhare**
+www.linkedin.com/in/prachi-shikhare-a27812247
 
 ---
 
