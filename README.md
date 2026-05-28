@@ -19,7 +19,7 @@ This dashboard helps users monitor KPIs, track sales trends, and make data-drive
 
 # 📸 Dashboard Preview
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Dashboard_img.png)
 
 ---
 
